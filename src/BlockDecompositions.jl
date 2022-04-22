@@ -1,5 +1,5 @@
 module BlockDecompositions
 
-# Write your package code here.
+include("SVD.jl")
 
 end

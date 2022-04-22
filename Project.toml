@@ -3,6 +3,11 @@ uuid = "c3e4be4f-eba8-4473-bd07-a90194cd2ab0"
 authors = ["Sergio Sánchez Ramírez <sergio.sanchez.ramirez@bsc.es> and contributors"]
 version = "0.1.0"
 
+[deps]
+BlockArrays = "8e7c35d0-a365-5155-bbbb-fb81a777f24e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
+
 [compat]
 julia = "1.5"
 
